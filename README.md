@@ -6,3 +6,6 @@ https://github.com/ktk94/study_llm/blob/main/HuggingFace%20Transformer%20Library
 
 # GPU 효율적으로 사용하기(메모리 절약, 양자화 등)
 https://github.com/ktk94/study_llm/blob/main/Efficient%20learning%20with%20GPUs.ipynb
+
+# 모델 경량화
+https://github.com/ktk94/study_llm/blob/main/Model%20Lightweight.ipynb
