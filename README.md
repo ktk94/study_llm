@@ -11,7 +11,7 @@ https://github.com/ktk94/study_llm/blob/main/Efficient%20learning%20with%20GPUs.
 https://github.com/ktk94/study_llm/blob/main/Model%20Lightweight.ipynb
 
 # LLM 모델 서빙하기
-https://github.com/ktk94/study_llm/blob/main/Serving%20sLLM.ipynb
+https://github.com/ktk94/study_llm/blob/main/Serving%20sLLM.ipynb<br>
 추가해야할 사항
 - 로컬 서버 실행
 - vLLM 오류 
